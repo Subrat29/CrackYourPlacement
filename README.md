@@ -21,6 +21,8 @@ If you have any suggestions or improvements, feel free to create a pull request 
 
 - [LinkedIn](https://www.linkedin.com/in/subratyadav/)
 - [Twitter](https://x.com/findingsubrat)
+- [Leetcode](https://leetcode.com/u/subrat29/)
+- [Gfg](https://www.geeksforgeeks.org/user/subrat29/)
 
 ## Acknowledgments
 
