@@ -1,38 +1,21 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-// sc:
-// tc:
+// sc: n
+// tc: n
 
 int findDuplicate(vector<int> &nums)
 {
+    unordered_map<int, int> mp;
 
-    int startIndex = 0;
-    int endIndex = nums.size() - 1;
-
-    while (startIndex < endIndex)
+    for (int i = 0; i < nums.size(); i++)
     {
-        int assumeDuplicate = (startIndex + endIndex) / 2;
-        int cnt = 0;
-
-        for (int i = 0; i < nums.size(); i++)
-        {
-            if (nums[i] <= assumeDuplicate)
-            {
-                cnt++;
-            }
-        }
-
-        if (cnt <= assumeDuplicate)
-        {
-            startIndex = assumeDuplicate + 1;
-        }
+        if (mp[nums[i]])
+            return nums[i];
         else
-        {
-            endIndex = assumeDuplicate;
-        }
+            mp[nums[i]] = 1;
     }
-    return startIndex;
+    return -1;
 }
 
 int main()
