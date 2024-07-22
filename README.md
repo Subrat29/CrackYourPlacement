@@ -1,4 +1,4 @@
-# #CrackYourInternship #CrackYourPlacement Challenge
+# CrackYourPlacement Challenge
 
 Welcome to my journey of the #CrackYourInternship and #CrackYourPlacement Challenge, curated by Arsh Goyal. This repository contains my solutions to 293 DSA questions over 60 days to prepare for interviews and online assessments of top tech companies.
 
