@@ -4,6 +4,8 @@
         "cmath": "cpp",
         "complex": "cpp",
         "cstdlib": "cpp",
-        "ratio": "cpp"
+        "ratio": "cpp",
+        "bitset": "cpp",
+        "set": "cpp"
     }
 }
