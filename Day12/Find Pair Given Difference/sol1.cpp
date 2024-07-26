@@ -1,8 +1,8 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-// sc:
-// tc:
+// sc: 1
+// tc: nlogn
 
 // Binary Search : logn
 
