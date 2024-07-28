@@ -2,7 +2,7 @@
 using namespace std;
 
 // sc: n
-// tc: n
+// tc: nlogn
 
 int findKthLargest(vector<int> &nums, int k)
 {
