@@ -99,3 +99,7 @@ Here's a summary of my daily progress throughout the challenge. Click on each da
   <summary>Day 15: 29 July, 2024</summary>
   <a href="https://github.com/Subrat29/CrackYourPlacement/tree/main/Day15">Day 15 Questions</a>
 </details>
+<details>
+  <summary>Day 16: 30 July, 2024</summary>
+  <a href="https://github.com/Subrat29/CrackYourPlacement/tree/main/Day16">Day 16 Questions</a>
+</details>
