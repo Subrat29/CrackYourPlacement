@@ -1,26 +1,42 @@
-#include <bits/stdc++.h>
+#include <iostream>
+#include <vector>
+#include <algorithm>
 using namespace std;
 
-// sc:
-// tc:
+// tc: m*n
+// sc: m*n
 
+// bottom to up
 int minPathSum(vector<vector<int>> &grid)
 {
     int m = grid.size();
     int n = grid[0].size();
-    vector<int> cur(m, grid[0][0]);
-    for (int i = 1; i < m; i++)
-        cur[i] = cur[i - 1] + grid[i][0];
-    for (int j = 1; j < n; j++)
+
+    vector<int> next(n, 0);
+    vector<int> curr(n, 0);
+    next[n - 1] = grid[m - 1][n - 1];
+
+    // fill last row
+    for (int i = n - 2; i >= 0; i--)
+        next[i] = next[i + 1] + grid[m - 1][i];
+
+    // Fill the rest of the rows from bottom to top
+    for (int i = m - 2; i >= 0; i--)
     {
-        cur[0] += grid[0][j];
-        for (int i = 1; i < m; i++)
-            cur[i] = min(cur[i - 1], cur[i]) + grid[i][j];
+        // Update the last cell of the current row
+        curr[n - 1] = next[n - 1] + grid[i][n - 1];
+        for (int j = n - 2; j >= 0; j--)
+        {
+            curr[j] = grid[i][j] + min(curr[j + 1], next[j]);
+        }
+        swap(next, curr);
     }
-    return cur[m - 1];
+    return next[0];
 }
 
 int main()
 {
+    vector<vector<int>> grid = {{1, 3, 1}, {1, 5, 1}, {4, 2, 1}};
+    cout << "Minimum Path Sum: " << minPathSum(grid) << endl;
     return 0;
 }
