@@ -6,19 +6,18 @@ using namespace std;
 
 class RandomizedCollection
 {
+    unordered_map<int, int> mp;
+    vector<int> arr;
+
 public:
-    RandomizedCollection()
-    {
-        unordered_map<int, int> mp;
-        vector<int> arr;
-    }
+    RandomizedCollection() {}
 
     bool insert(int val)
     {
         bool isValPresent = mp[val] == 0;
         mp[val]++;
         arr.push_back(val);
-        return !isValPresent;
+        return isValPresent;
     }
 
     bool remove(int val)
@@ -33,7 +32,7 @@ public:
 
             // Remove value from array
             auto it = find(arr.begin(), arr.end(), val);
-            if (it != end())
+            if (it != arr.end())
                 arr.erase(it);
 
             return true;
