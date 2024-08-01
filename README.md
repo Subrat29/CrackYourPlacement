@@ -104,6 +104,10 @@ Here's a summary of my daily progress throughout the challenge. Click on each da
   <a href="https://github.com/Subrat29/CrackYourPlacement/tree/main/Day16">Day 16 Questions</a>
 </details>
 <details>
-  <summary>Day 17: 1 July, 2024</summary>
+  <summary>Day 17: 1 August, 2024</summary>
   <a href="https://github.com/Subrat29/CrackYourPlacement/tree/main/Day17">Day 17 Questions</a>
+</details>
+<details>
+  <summary>Day 18: 2 August, 2024</summary>
+  <a href="https://github.com/Subrat29/CrackYourPlacement/tree/main/Day18">Day 18 Questions</a>
 </details>
