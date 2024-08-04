@@ -1,5 +1,5 @@
 <div align="center">
-<h1>🚀 CrackYourPlacement Challenge 🚀</h1>
+  <h1>🚀 CrackYourPlacement Challenge 🚀</h1>
 </div>
 
 Welcome to my journey of the #CrackYourInternship and #CrackYourPlacement Challenge, curated by Arsh Goyal. This repository contains my solutions to 293 DSA questions over 60 days to prepare for interviews and online assessments of top tech companies.
@@ -27,13 +27,7 @@ If you have any suggestions or improvements, feel free to create a pull request 
 
 ## Acknowledgments
 
-Special thanks to Arsh Goyal for curating this challenge and providing an excellent resource to prepare for our dream internships and placements. 🙏
-
----
-
-Let's crack our dream internships together! 💪✨
-
-#DSA #TechPrep #CareerGrowth #CodingChallenge #GitHub
+Special thanks to [Arsh Goyal](https://www.linkedin.com/in/arshgoyal/) for curating this challenge and providing an excellent resource to prepare for our dream internships and placements. 🙏
 
 ## 📋 Progress Log
 
@@ -111,10 +105,19 @@ Here's a summary of my daily progress throughout the challenge. Click on each da
   <summary>Day 18: 1 August, 2024</summary>
   <a href="https://github.com/Subrat29/CrackYourPlacement/tree/main/Day18">Day 18 Questions</a>
 </details>
+<details>
   <summary>Day 19: 2 August, 2024</summary>
   <a href="https://github.com/Subrat29/CrackYourPlacement/tree/main/Day19">Day 19 Questions</a>
 </details>
-</details>
+<details>
   <summary>Day 20: 3 August, 2024</summary>
   <a href="https://github.com/Subrat29/CrackYourPlacement/tree/main/Day20">Day 20 Questions</a>
 </details>
+<details>
+  <summary>Day 21: 4 August, 2024</summary>
+  <a href="https://github.com/Subrat29/CrackYourPlacement/tree/main/Day21">Day 21 Questions</a>
+</details>
+
+## Let's crack our dream internships together! 💪✨
+
+### #DSA #TechPrep #CareerGrowth #CodingChallenge #GitHub
