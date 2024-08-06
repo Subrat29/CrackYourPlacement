@@ -121,6 +121,10 @@ Here's a summary of my daily progress throughout the challenge. Click on each da
   <summary>Day 22: 5 August, 2024</summary>
   <a href="https://github.com/Subrat29/CrackYourPlacement/tree/main/Day22">Day 22 Questions</a>
 </details>
+<details>
+  <summary>Day 23: 6 August, 2024</summary>
+  <a href="https://github.com/Subrat29/CrackYourPlacement/tree/main/Day23">Day 23 Questions</a>
+</details>
 
 ## Let's crack our dream internships together! 💪✨
 
