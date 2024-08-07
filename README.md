@@ -2,7 +2,7 @@
   <h1>🚀 CrackYourPlacement Challenge 🚀</h1>
 </div>
 
-Welcome to my journey of the #CrackYourInternship and #CrackYourPlacement Challenge, curated by Arsh Goyal. This repository contains my solutions to 293 DSA questions over 60 days to prepare for interviews and online assessments of top tech companies.
+Welcome to my journey of the **#CrackYourPlacement** Challenge, curated by Arsh Goyal. This repository contains my solutions to 293 DSA questions over 60 days to prepare for interviews and online assessments of top tech companies.
 
 ## Challenge Overview
 
@@ -13,21 +13,6 @@ Welcome to my journey of the #CrackYourInternship and #CrackYourPlacement Challe
 ## Structure
 
 Each folder in this repository is organized by daily subfolders with the respective questions and solutions.
-
-## How to Contribute
-
-If you have any suggestions or improvements, feel free to create a pull request or open an issue. Let's collaborate to make this repository even better! 🤝
-
-## Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/subratyadav/) 💼
-- [Twitter](https://x.com/findingsubrat) 🐦
-- [Leetcode](https://leetcode.com/u/subrat29/) 🧩
-- [Gfg](https://www.geeksforgeeks.org/user/subrat29/) 📚
-
-## Acknowledgments
-
-Special thanks to [Arsh Goyal](https://www.linkedin.com/in/arshgoyal/) for curating this challenge and providing an excellent resource to prepare for our dream internships and placements. 🙏
 
 ## 📋 Progress Log
 
@@ -125,7 +110,26 @@ Here's a summary of my daily progress throughout the challenge. Click on each da
   <summary>Day 23: 6 August, 2024</summary>
   <a href="https://github.com/Subrat29/CrackYourPlacement/tree/main/Day23">Day 23 Questions</a>
 </details>
+<details>
+  <summary>Day 24: 7 August, 2024</summary>
+  <a href="https://github.com/Subrat29/CrackYourPlacement/tree/main/Day24">Day 24 Questions</a>
+</details>
 
-## Let's crack our dream internships together! 💪✨
+## How to Contribute
+
+If you have any suggestions or improvements, feel free to create a pull request or open an issue. Let's collaborate to make this repository even better! 🤝
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/subratyadav/) 💼
+- [Twitter](https://x.com/findingsubrat) 🐦
+- [Leetcode](https://leetcode.com/u/subrat29/) 🧩
+- [Gfg](https://www.geeksforgeeks.org/user/subrat29/) 📚
+
+## Acknowledgments
+
+Special thanks to [Arsh Goyal](https://www.linkedin.com/in/arshgoyal/) for curating this challenge and providing an excellent resource to prepare for our dream internships and placements. 🙏
+
+## Let's crack our dream placements together! 💪✨
 
 ### #DSA #TechPrep #CareerGrowth #CodingChallenge #GitHub
