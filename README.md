@@ -122,6 +122,10 @@ Here's a summary of my daily progress throughout the challenge. Click on each da
   <summary>Day 26: 9 August, 2024</summary>
   <a href="https://github.com/Subrat29/CrackYourPlacement/tree/main/Day26">Day 26 Questions</a>
 </details>
+<details>
+  <summary>Day 27: 10 August, 2024</summary>
+  <a href="https://github.com/Subrat29/CrackYourPlacement/tree/main/Day27">Day 27 Questions</a>
+</details>
 
 ## How to Contribute
 
