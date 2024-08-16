@@ -142,6 +142,14 @@ Here's a summary of my daily progress throughout the challenge. Click on each da
   <summary>Day 31: 14 August, 2024</summary>
   <a href="https://github.com/Subrat29/CrackYourPlacement/tree/main/Day31">Day 31 Questions</a>
 </details>
+<details>
+  <summary>Day 32: 15 August, 2024</summary>
+  <a href="https://github.com/Subrat29/CrackYourPlacement/tree/main/Day32">Day 32 Questions</a>
+</details>
+<details>
+  <summary>Day 33: 16 August, 2024</summary>
+  <a href="https://github.com/Subrat29/CrackYourPlacement/tree/main/Day33">Day 33 Questions</a>
+</details>
 
 ## How to Contribute
 
