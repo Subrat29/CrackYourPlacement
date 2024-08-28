@@ -194,6 +194,10 @@ Here's a summary of my daily progress throughout the challenge. Click on each da
   <summary>Day 44: 27 August, 2024</summary>
   <a href="https://github.com/Subrat29/CrackYourPlacement/tree/main/Day44">Day 44 Questions</a>
 </details>
+<details>
+  <summary>Day 45: 28 August, 2024</summary>
+  <a href="https://github.com/Subrat29/CrackYourPlacement/tree/main/Day45">Day 45 Questions</a>
+</details>
 
 ## How to Contribute
 
